@@ -1,0 +1,899 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://www.wm.tu-darmstadt.de/mat-db/view.php?id=379
+Subject: Database of Cyclic Material Properties
+Date: Sun, 27 Aug 2023 16:50:58 -0000
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--YCMxAhAYLKBsZ9Avr2a5EULikyW5kM3YMdVSSTbjkL----"
+
+
+------MultipartBoundary--YCMxAhAYLKBsZ9Avr2a5EULikyW5kM3YMdVSSTbjkL----
+Content-Type: text/html
+Content-ID: <frame-E823D604F4171C2D186D5956CEA97A13@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.wm.tu-darmstadt.de/mat-db/view.php?id=379
+
+<html><head><meta http-equiv=3D"Content-Type" content=3D"text/html; charset=
+=3DUTF-8">
+
+   <title>Database of Cyclic Material Properties</title>
+   <link rel=3D"STYLESHEET" type=3D"text/css" href=3D"http://www.wm.tu-darm=
+stadt.de/mat-db/style.css">
+   <link rel=3D"SHORTCUT ICON" href=3D"http://www.wm.tu-darmstadt.de/mat-db=
+/favicon.ico">
+  =20
+   <meta http-equiv=3D"CONTENT-LANGUAGE" content=3D"de">
+   <meta http-equiv=3D"EXPIRES" content=3D"0">
+</head>
+
+<body leftmargin=3D"0" topmargin=3D"0" marginwidth=3D"0" marginheight=3D"0"=
+>
+
+<center class=3D"main">
+<table width=3D"100%" border=3D"0" cellspacing=3D"0" cellpadding=3D"0" clas=
+s=3D"main">
+	<tbody><tr>
+    <td align=3D"center">
+
+    <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+      <tbody><tr><td align=3D"right">
+      <table border=3D"0" cellspacing=3D"5" cellpadding=3D"0">
+        <tbody><tr>
+          <td valign=3D"middle"><a><img src=3D"http://www.wm.tu-darmstadt.d=
+e/mat-db/print.jpg" style=3D"border:0"></a></td>
+          <td valign=3D"middle"><a style=3D"text-decoration:none">print</a>=
+</td>
+        </tr>
+      </tbody></table>
+      </td></tr>
+    </tbody></table>
+
+	  </td>
+	</tr>
+	<tr>
+	  <td>
+
+<div align=3D"center">
+<table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"3">
+<tbody><tr>
+    <td width=3D"33%"></td>
+    <td width=3D"33%"></td>
+    <td width=3D"33%"></td>
+  </tr>
+  <tr>
+    <td colspan=3D"3"><table width=3D"100%" border=3D"0" cellpadding=3D"10"=
+ cellspacing=3D"0">
+        <tbody><tr>
+          <td width=3D"33%" align=3D"center" style=3D"border:solid; border-=
+width:1; border-color:#000000"><strong>16 NiCrMo 3 2</strong>&nbsp;</td>
+          <td width=3D"33%" align=3D"center" style=3D"border:solid; border-=
+width:1; border-color:#000000; border-left:none; border-right:none"><strong=
+></strong>&nbsp;</td>
+          <td width=3D"33%" align=3D"center" style=3D"border:solid; border-=
+width:1; border-color:#000000"><strong>A514</strong>&nbsp;</td>
+        </tr>
+      </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan=3D"3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td valign=3D"top">Heat treatment: </td>
+    <td colspan=3D"2" valign=3D"top"></td>
+  </tr>
+  <tr>
+    <td valign=3D"top">Test temperature: </td>
+    <td colspan=3D"2" valign=3D"top">+23=C2=B0C</td>
+  </tr>
+  <tr>
+    <td valign=3D"top">Semifinished Material: </td>
+    <td colspan=3D"2" valign=3D"top">plate, 19 mm thick</td>
+  </tr>
+  <tr>
+    <td valign=3D"top">Reference: </td>
+    <td colspan=3D"2" valign=3D"top">Higashida Y., [3.47]</td>
+  </tr>
+  <tr>
+    <td valign=3D"top">Year: </td>
+    <td colspan=3D"2" valign=3D"top">1976</td>
+  </tr>
+  <tr>
+    <td colspan=3D"3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan=3D"3"><strong>Chemical composition</strong> <br>
+
+<table width=3D"550" border=3D"0" cellspacing=3D"5" cellpadding=3D"0">
+  <tbody><tr>
+    <td width=3D"50">C&nbsp;</td>
+    <td width=3D"50">Mn&nbsp;</td>
+    <td width=3D"50">P&nbsp;</td>
+    <td width=3D"50">S&nbsp;</td>
+    <td width=3D"50">Si&nbsp;</td>
+    <td width=3D"50">Cu&nbsp;</td>
+    <td width=3D"50">Ni&nbsp;</td>
+    <td width=3D"50">Cv&nbsp;</td>
+    <td width=3D"50">Mo&nbsp;</td>
+    <td width=3D"50">V&nbsp;</td>
+    <td width=3D"50">&nbsp;</td>
+    <td width=3D"50">&nbsp;</td>
+  </tr>
+  <tr>
+    <td width=3D"50">0.16&nbsp;</td>
+    <td width=3D"50">0.82&nbsp;</td>
+    <td width=3D"50">0.012&nbsp;</td>
+    <td width=3D"50">0.019&nbsp;</td>
+    <td width=3D"50">0.23&nbsp;</td>
+    <td width=3D"50">0.27&nbsp;</td>
+    <td width=3D"50">0.76&nbsp;</td>
+    <td width=3D"50">0.54&nbsp;</td>
+    <td width=3D"50">0.47&nbsp;</td>
+    <td width=3D"50">0.20900006&nbsp;</td>
+    <td width=3D"50">&nbsp;</td>
+    <td width=3D"50">&nbsp;</td>
+  </tr>
+</tbody></table>
+			=09
+    </td>
+  </tr>
+  <tr>
+    <td colspan=3D"3">&nbsp;</td>
+  </tr>
+  <tr>
+    <td colspan=3D"2" valign=3D"top"><table width=3D"100%" border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"3">
+      <tbody><tr>
+        <td colspan=3D"2" valign=3D"top"><strong><b>Microstructure</b></str=
+ong></td>
+        </tr>
+      <tr>
+        <td colspan=3D"2" valign=3D"top">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan=3D"2" valign=3D"top">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan=3D"2" valign=3D"top"><strong>Monotonic test </strong></=
+td>
+        </tr>
+      <tr>
+        <td valign=3D"top">Loading Condition: </td>
+        <td valign=3D"top">strain controlled</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Specimen: </td>
+        <td valign=3D"top">cylindrical, diameter 6.35 mm</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Specimen location: </td>
+        <td valign=3D"top">in rolling direction</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Gauge length: </td>
+        <td valign=3D"top">16.5 mm</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Testing maschine: </td>
+        <td valign=3D"top">MTS, servohydraulic, max. 90 kN</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Strain rate: </td>
+        <td valign=3D"top"></td>
+      </tr>
+      <tr>
+        <td colspan=3D"2" valign=3D"top">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan=3D"2" valign=3D"top">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan=3D"2" valign=3D"top">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan=3D"2" valign=3D"top">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan=3D"2" valign=3D"top">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan=3D"2" valign=3D"top"><strong>Constant amplitude test </=
+strong></td>
+        </tr>
+        <tr>
+        <td valign=3D"top">Loading condition: </td>
+        <td valign=3D"top">total strain control, strain ratio =3D -1</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Specimen: </td>
+        <td valign=3D"top">cylindrical, diameter 6.35 mm</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Surface: </td>
+        <td valign=3D"top">mechanically polished</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Specimen location: </td>
+        <td valign=3D"top">in rolling direction</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Gauge length: </td>
+        <td valign=3D"top">16.5 mm</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Testing maschine: </td>
+        <td valign=3D"top">MTS, servohydraulic, max. 90 kN</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Frequency: </td>
+        <td valign=3D"top">0.1 - 10 Hz</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Strain rate: </td>
+        <td valign=3D"top"></td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Waveform: </td>
+        <td valign=3D"top">sinusoidal</td>
+      </tr>
+      <tr>
+        <td valign=3D"top">Failure criterion: </td>
+        <td valign=3D"top"></td>
+      </tr>
+      <tr>
+        <td valign=3D"top" width=3D"130"><i>=CF=83/=CE=B5</i>-values valid =
+for: </td>
+        <td valign=3D"top">half failure life</td>
+      </tr>
+      <tr>
+        <td colspan=3D"2" valign=3D"top">&nbsp;</td>
+        </tr>
+	  <tr>
+        <td colspan=3D"2" valign=3D"top">&nbsp;</td>
+        </tr>
+     =20
+    </tbody></table></td>
+    <td valign=3D"top"><table width=3D"100%" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"3">
+      <tbody><tr>
+        <td colspan=3D"4"><strong><b>Hardness</b></strong></td>
+        </tr>
+      <tr>
+        <td colspan=3D"4">BHN: 303&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan=3D"4">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan=3D"4"><strong>Monotonic Properties</strong> </td>
+        </tr>
+      <tr>
+        <td><em>E</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>209000&nbsp;</td>
+        <td>N/mm=C2=B2</td>
+      </tr>
+      <tr>
+        <td><em>R<span style=3D"font-size:9px">p0.2</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>891.0</td>
+        <td>N/mm=C2=B2</td>
+      </tr>
+      <tr>
+        <td><em>R<span style=3D"font-size:9px">m</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>939.0</td>
+        <td>N/mm=C2=B2</td>
+      </tr>
+      <tr>
+        <td><em>A<span style=3D"font-size:9px">5</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td></td>
+        <td>%</td>
+      </tr>
+      <tr>
+        <td><em>Z</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>63.0</td>
+        <td>%</td>
+      </tr>
+      <tr>
+        <td><em>=CE=BD</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td></td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em>K</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>963.000</td>
+        <td>N/mm=C2=B2</td>
+      </tr>
+      <tr>
+        <td><em>n</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>0.0110</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em>=CF=83<span style=3D"font-size:9px">f</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>1491.0</td>
+        <td>N/mm=C2=B2</td>
+      </tr>
+      <tr>
+        <td><em>=CE=B5<span style=3D"font-size:9px">f</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>0.994</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td colspan=3D"4">&nbsp;</td>
+        </tr>
+      <tr>
+        <td colspan=3D"4"><strong>Cyclic Properties </strong></td>
+        </tr>
+      <tr>
+        <td><em>R=E2=80=B2<span style=3D"font-size:9px">p0.2</span></em></t=
+d>
+        <td><div align=3D"center">=3D</div></td>
+        <td>616</td>
+        <td>N/mm=C2=B2</td>
+      </tr>
+      <tr>
+        <td><em>=CF=83<span style=3D"font-size:9px">E</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>486</td>
+        <td>N/mm=C2=B2</td>
+      </tr>
+      <tr>
+        <td><em>=CE=B5<span style=3D"font-size:9px">E</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>0.248</td>
+        <td>%</td>
+      </tr>
+      <tr>
+        <td><em>N<span style=3D"font-size:9px">E</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>154961</td>
+        <td>cycles</td>
+      </tr>
+      <tr>
+        <td><em>N<span style=3D"font-size:9px">T</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>1767</td>
+        <td>cycles</td>
+      </tr>
+      <tr>
+        <td><em>T<span style=3D"font-size:9px">=CF=83</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>1.091</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em>T<span style=3D"font-size:9px">=CE=B5p</span></em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>1.302</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em>K=E2=80=B2</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>1080</td>
+        <td>N/mm=C2=B2</td>
+      </tr>
+      <tr>
+        <td><em>n=E2=80=B2</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>0.090</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em>=CF=83=E2=80=B2<span style=3D"font-size:9px">f</span></em><=
+/td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>1082</td>
+        <td>N/mm=C2=B2</td>
+      </tr>
+      <tr>
+        <td><em>=CE=B5=E2=80=B2<span style=3D"font-size:9px">f</span></em><=
+/td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>1.001</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em>b</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>-0.063</td>
+        <td>-</td>
+      </tr>
+      <tr>
+        <td><em>c</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>-0.697</td>
+        <td>-</td>
+      </tr>
+     =20
+    </tbody></table></td>
+  </tr>
+  <tr>
+    <td colspan=3D"2" valign=3D"top"><table width=3D"100%" border=3D"0" cel=
+lspacing=3D"0" cellpadding=3D"3">
+      <tbody><tr>
+        <td><strong>Incremental step test </strong></td>
+        </tr>
+      <tr>
+        <td>&nbsp;</td>
+        </tr>
+      <tr>
+        <td>&nbsp;</td>
+        </tr>
+      <tr>
+        <td><strong>Remarks</strong></td>
+        </tr>
+      <tr>
+        <td><br>          </td>
+        </tr>
+	  </tbody></table>
+    </td>
+    <td valign=3D"top"><table width=3D"100%" border=3D"0" cellspacing=3D"0"=
+ cellpadding=3D"3">
+	<tbody><tr>
+        <td colspan=3D"4">&nbsp;</td>
+        </tr>
+      <tr>
+        <td width=3D"42"><em>K=E2=80=B2</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td width=3D"60">&nbsp;</td>
+        <td>N/mm=C2=B2</td>
+      </tr>
+	  <tr>
+        <td><em>n=E2=80=B2</em></td>
+        <td><div align=3D"center">=3D</div></td>
+        <td>&nbsp;</td>
+        <td>-</td>
+      </tr>
+	  </tbody></table></td>
+  </tr>
+</tbody></table>
+</div>
+
+
+	  </td>
+	</tr>
+	<tr>
+	  <td height=3D"50">&nbsp;</td>
+	</tr>
+  <tr>
+    <td align=3D"center">
+    <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+      <tbody><tr>
+        <td align=3D"center"><a href=3D"http://www.wm.tu-darmstadt.de/mat-d=
+b/svg/stress_strain.php?id=3D379" target=3D"_blank" style=3D"text-decoratio=
+n:none"><b>Stress-Strain-Curve</b></a></td>
+        <td align=3D"center"><a href=3D"http://www.wm.tu-darmstadt.de/mat-d=
+b/svg/strain_life.php?id=3D379" target=3D"_blank" style=3D"text-decoration:=
+none"><b>Strain-Life-Curve</b></a></td>
+        <td align=3D"center"><a href=3D"http://www.wm.tu-darmstadt.de/mat-d=
+b/svg/pswt_life.php?id=3D379" target=3D"_blank" style=3D"text-decoration:no=
+ne"><b>PSWT-Life-Curve</b></a></td>
+      </tr>
+    </tbody></table>
+    </td>
+  </tr>
+  <tr>
+	  <td height=3D"50">&nbsp;</td>
+	</tr>
+  <tr><td align=3D"center">
+
+     <table border=3D"1" rules=3D"cols" frame=3D"box" cellspacing=3D"0" cel=
+lpadding=3D"3">
+       <thead>
+       <tr style=3D"border-bottom: 1px solid #000">
+         <td align=3D"center"><b>spec.<br>no.</b></td>
+         <td align=3D"center"><b>=CE=B5<span style=3D"font-size: x-small">a=
+</span><br>%</b></td>
+         <td align=3D"center"><b>=CF=83<span style=3D"font-size: x-small">a=
+</span><br>N/mm=C2=B2</b></td>
+         <td align=3D"center"><b>=CF=83<span style=3D"font-size: x-small">m=
+</span><br>N/mm=C2=B2</b></td>
+         <td align=3D"center"><b>N<br>cycles</b></td>
+       </tr>
+       </thead>
+       <tbody>
+
+       <tr>
+         <td align=3D"char" char=3D".">1</td>
+         <td align=3D"char" char=3D".">1.54</td>
+         <td align=3D"char" char=3D".">731.9</td>
+         <td align=3D"right">0</td>
+         <td align=3D"right">282</td>
+       </tr>
+ =20
+       <tr>
+         <td align=3D"char" char=3D".">2</td>
+         <td align=3D"char" char=3D".">1.07</td>
+         <td align=3D"char" char=3D".">685</td>
+         <td align=3D"right">0</td>
+         <td align=3D"right">606</td>
+       </tr>
+ =20
+       <tr>
+         <td align=3D"char" char=3D".">3</td>
+         <td align=3D"char" char=3D".">0.81</td>
+         <td align=3D"char" char=3D".">676.7</td>
+         <td align=3D"right">0</td>
+         <td align=3D"right">998</td>
+       </tr>
+ =20
+       <tr>
+         <td align=3D"char" char=3D".">4</td>
+         <td align=3D"char" char=3D".">0.54</td>
+         <td align=3D"char" char=3D".">617.3</td>
+         <td align=3D"right">0</td>
+         <td align=3D"right">2607</td>
+       </tr>
+ =20
+       <tr>
+         <td align=3D"char" char=3D".">5</td>
+         <td align=3D"char" char=3D".">0.4</td>
+         <td align=3D"char" char=3D".">582.8</td>
+         <td align=3D"right">0</td>
+         <td align=3D"right">9729</td>
+       </tr>
+ =20
+       <tr>
+         <td align=3D"char" char=3D".">6</td>
+         <td align=3D"char" char=3D".">0.32</td>
+         <td align=3D"char" char=3D".">555.2</td>
+         <td align=3D"right">0</td>
+         <td align=3D"right">21076</td>
+       </tr>
+ =20
+       <tr>
+         <td align=3D"char" char=3D".">7</td>
+         <td align=3D"char" char=3D".">0.25</td>
+         <td align=3D"char" char=3D".">538.6</td>
+         <td align=3D"right">0</td>
+         <td align=3D"right">204840</td>
+       </tr>
+ =20
+       <tr>
+         <td align=3D"char" char=3D".">8</td>
+         <td align=3D"char" char=3D".">0.2</td>
+         <td align=3D"char" char=3D".">417.1</td>
+         <td align=3D"right">0</td>
+         <td align=3D"right">&gt;4000000</td>
+       </tr>
+ =20
+       </tbody>
+     </table>
+
+    </td>
+  </tr>
+  	<tr>
+    <td align=3D"center">
+
+    <table width=3D"600" border=3D"0" cellspacing=3D"0" cellpadding=3D"0">
+      <tbody><tr><td align=3D"right">
+      <table border=3D"0" cellspacing=3D"5" cellpadding=3D"0">
+        <tbody><tr>
+          <td valign=3D"middle"><a><img src=3D"http://www.wm.tu-darmstadt.d=
+e/mat-db/print.jpg" style=3D"border:0"></a></td>
+          <td valign=3D"middle"><a style=3D"text-decoration:none">print</a>=
+</td>
+        </tr>
+      </tbody></table>
+      </td></tr>
+    </tbody></table>
+
+	  </td>
+	</tr>
+</tbody></table>
+<br><blink><b>You have 61672 credits left.</b><blink><br><br>
+ 	</blink></blink></center>
+
+</body></html>
+------MultipartBoundary--YCMxAhAYLKBsZ9Avr2a5EULikyW5kM3YMdVSSTbjkL----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://www.wm.tu-darmstadt.de/mat-db/style.css
+
+@charset "utf-8";
+
+body { background-color: rgb(230, 230, 230); }
+
+td { font-size: 12px; }
+
+.top { background-color: rgb(51, 153, 153); background-image: url("banner.j=
+pg"); background-repeat: repeat-y; background-position: 0px 0px; font-famil=
+y: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: rgb(255, =
+255, 255); }
+
+.hover { text-decoration: none; }
+
+.targetGroups { background-color: rgb(0, 51, 102); font-weight: bold; font-=
+family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; color: rgb(=
+255, 255, 255); border-top: 1px solid rgb(0, 0, 0); border-bottom: 1px soli=
+d rgb(0, 0, 0); padding-right: 10px; }
+
+.targetGroupItem { font-family: Verdana, Arial, Helvetica, sans-serif; font=
+-size: 12px; font-weight: bold; color: rgb(255, 255, 255); text-decoration:=
+ none; padding-top: 1px; padding-bottom: 1px; }
+
+.bottomBar { font-family: Verdana, Arial, Helvetica, sans-serif; font-size:=
+ 10px; line-height: 20px; font-weight: normal; color: rgb(153, 153, 153); t=
+ext-decoration: none; background-color: rgb(229, 229, 229); border-top: 1px=
+ solid rgb(153, 153, 153); border-bottom: 1px solid rgb(153, 153, 153); pad=
+ding-right: 5px; }
+
+.bottomItem { font-family: Verdana, Arial, Helvetica, sans-serif; font-size=
+: 12px; font-weight: normal; color: rgb(153, 153, 153); text-decoration: no=
+ne; border: none; line-height: 20px; }
+
+.navBarGround { background-color: rgb(230, 230, 230); border-right: 1px sol=
+id rgb(153, 153, 153); width: 150px; }
+
+.navItem { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 1=
+2px; color: rgb(255, 255, 255); font-style: normal; font-weight: bold; }
+
+.navMenu { border-top: 1px solid rgb(204, 204, 204); font-size: 12px; font-=
+family: Verdana, Arial, Helvetica, sans-serif; line-height: 20px; color: rg=
+b(0, 0, 0); text-decoration: none; }
+
+.navMenu a.hover { display: block; background: rgb(230, 230, 230); padding-=
+top: 2px; padding-bottom: 2px; padding-left: 15px; }
+
+.navMenu a.hover, .navMenu a.hover:visited { text-decoration: none; color: =
+black; }
+
+.navMenu a.hover:hover, .navMenu a.hover:active { text-decoration: none; co=
+lor: black; background: rgb(255, 255, 255); }
+
+.navMenuSelect { border-top: 1px solid rgb(204, 204, 204); font-size: 12px;=
+ font-family: Verdana, Arial, Helvetica, sans-serif; line-height: 20px; col=
+or: rgb(0, 0, 0); text-decoration: none; }
+
+.navMenuSelect a.hover { display: block; background: rgb(241, 241, 241); pa=
+dding-top: 2px; padding-bottom: 2px; padding-left: 15px; }
+
+.navMenuSelect a.hover, .navMenuSelect a.hover:visited { text-decoration: n=
+one; color: black; background-color: rgb(241, 241, 241); }
+
+.navMenuSelect a.hover:hover, .navMenuSelect a.hover:active { text-decorati=
+on: none; color: black; background: rgb(255, 255, 255); }
+
+.navMenuHeader { font-family: Verdana, Arial, Helvetica, sans-serif; font-s=
+ize: 12px; line-height: 20px; font-weight: bold; color: rgb(255, 255, 255);=
+ text-decoration: none; background-color: rgb(153, 153, 153); padding-left:=
+ 10px; padding-top: 2px; padding-bottom: 2px; border-top: 1px solid rgb(153=
+, 153, 153); }
+
+.botton { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12=
+px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none; ba=
+ckground-color: rgb(153, 153, 153); border: 1px solid rgb(102, 102, 102); }
+
+.bottonText { font-family: Verdana, Arial, Helvetica, sans-serif; font-size=
+: 12px; font-weight: bold; color: rgb(255, 255, 255); text-decoration: none=
+; background-color: rgb(153, 153, 153); }
+
+.mainArea { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: =
+12px; padding-left: 15px; padding-right: 10px; background-color: rgb(255, 2=
+55, 255); width: 100%; }
+
+.title1 { font-size: 18px; font-weight: bold; }
+
+.title2 { font-size: 16px; font-weight: bold; }
+
+.lastUpdate { font-family: Verdana, Arial, Helvetica, sans-serif; font-size=
+: 10px; color: rgb(153, 153, 153); padding-right: 5px; }
+
+.title3 { font-size: 12px; font-weight: bold; }
+
+.mainAreaTable { font-family: Verdana, Arial, Helvetica, sans-serif; font-s=
+ize: 12px; padding-right: 10px; background-color: rgb(255, 255, 255); }
+
+.main { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px=
+; background-color: rgb(255, 255, 255); }
+------MultipartBoundary--YCMxAhAYLKBsZ9Avr2a5EULikyW5kM3YMdVSSTbjkL----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://www.wm.tu-darmstadt.de/mat-db/banner.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAYEBQYFBAYGBQYHBwYIChAKCgkJChQODwwQFxQYGBcU
+FhYaHSUfGhsjHBYWICwgIyYnKSopGR8tMC0oMCUoKSj/2wBDAQcHBwoIChMKChMoGhYaKCgoKCgo
+KCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCgoKCj/wAARCABiAnADASIA
+AhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAQIABwQFBggD/8QASBAAAQMDAQQHBAUICAcBAQAA
+AQACAwQFEQYHEiExE0FRYXGBkRQiMqEVVbHB0RYXI0JScpLSCCVigqKkssIkM1STlOHw4vH/xAAa
+AQADAQEBAQAAAAAAAAAAAAAAAQIDBAUG/8QALREAAwACAgICAAUDBAMAAAAAAAECAxESIQQxE0Ei
+MlFxgUJh8AUjkeEzocH/2gAMAwEAAhEDEQA/APQpSFElKVqcRClKJSlAgEpSiUpQIBSkokpSmSAp
+SiUpKBAKUolKUCIUpKJSEpiAUCiUpKCQEpSoUCmIBSFMSlQIBSlEpSgQCUpRKUpkkKQlMSkKBAQK
+JSEpiAUCogUCAUpKJSlBIEpRKUpiASlRKUoEQpCiSlKZICgUUpTEAlKVCgUCAUpKJSlAgFKUUpKZ
+ICUpRKVAiFKSiUhKYgFBQoFAgEpCiUCgkBSkokpCmIhSlEpUCISkKJKUpiIlJRKQoJAUCoUCUCFJ
+SlEoFMQClKKUlBIClKJSlMQCUpRKUoEAoIlBAiKKKIAiiiiAPRJSkolanVVxFp01dK/ODTU0ko8Q
+04HrhcKW3o+sb0eZ9W7TNSnU91FuvFRDRNqZGwsZjAYHEDq7Au72CauvV/vdzprzcJqtjKcSMEmP
+dO8AeQ71TmjLZ9MX0wOG80U88zs/2YnOHzAXc/0cJ2wa1rxI4NYbe8kk4Aw9h+zK9fNjhY2ku0jh
+x1TpNss/bdrKXS+nooLbN0V0rX7sbhzjYOLnfYPM9ioj85Or/r2q/wAP4LYamrqjaTtMEdK4imkk
+6CAnlHA3JLz5bzj4rm6KkivWsIKOjYW09VWNiib+ywvwPQIw4piNUu/bDJbp7R610aas6UtL7lM+
+atkpmSSvfzLnDJz4Zx5LnNsGrzpXTJFJIG3OsJip+1g/Wf5D5kLt5HxU1M58jmxwxMySeAa0D7F5
+H2jalm1hq2aqi33U4PQUkeOO4Dw4dpPHzwuPx8Xy5Nv0jbJXCdDfnH1d9eVX+H8F6T0teva9B2+7
+1che72ISzPPW5rfePqCvOG0rTA0rPZaTA6Z9A2SoPbKXv3vTgPJXXsLqmV2ziCnkAe2CWWBzXDII
+J3sHyet/JmHjVyvsyxtqmmUlLtH1a+V7healoJJDRjA7uST84urfruq/w/gvRmsaW1WnS11rhbqJ
+r4aZ7mHoG/Fg7vV24XkykgfVVcNPEMySvDGjtJOAtsNRlTfHWiLVT9nT/nE1b9d1X+H8FaOkdSXe
+PZNfL9dK6Waqy9lNI/HucA1pH98n0VlUmn7VT0kMDbfSOEbGsBMLSTgY48FX+3upituiae30sbIW
+1VSB0bGho3W5ceA791c/yxlaiZ12XxcrbZUjdoOrXuDWXmqc4nAAAyfkvv8Alprf6wuP/b/9LRaS
+usVj1FQ3KenNSymf0nRB27vHBxxweRwfJW1+fKD6ik/8kfyrqyTxf4YT/wCDNPftmo2bag1bd9ZU
+FLcK+tdR5c+UPZgEBpODw6zgLebb9W3Oy3O20VnrZKV5idNLuY94E4bnP7rvVdns91gNY0dXUsoH
+UkcDxGCZN/eOMnqGMcPVUXtiuHt+v7jg5ZT7sDe7dAz/AIi5c+NfJm7nWkU3qemLR6x1tWhxo6+4
+1Ab8XRR72PHASza51lQzhtTcqyGQcd2aMD5ELf7LNdWXSVlqoK+Cskq5598mGNpG6GgAZLh3+q1G
+1HWsGr6qiFHSPgp6UOw6XG+8uxnOOQ4DrW6W748Ov1I+t7LZ2Ua1m1XQ1ENwaxtwpcbzmDAkaeTs
+dR4cfJcrtm1fdbTqGmobRXSUzWU4fLuY4ucTjPkB6r67ALLUQQ3C7zscyGcNhhyMb4By4+GcD1Vc
+7TK/6R1zd5gctZN0LfBgDfuWOPHPzNL0im3xLS2KXi83x10qLtXTVMMQZHG1+MbxySeXcPVWdNKy
+GJ8srgyNjS5znHAAHMrg9iVB7JoeKYjDquZ83kDuj/T81rNuGp/YLWyy0j8VNWN6Yg8Wxdn94/IH
+tWNx8mZzI09I4PU+0i91l8qpbVXzU1DvbsMbQPhHAE8OZ5+a63Y1qm6Xi8V1Jda2Sp/QCWPfx7uH
+AHH8QXB6W00bhpq/3eZhMVHAWw98nAk+Tf8AUFk7Hav2XXlE0nDZ2SRH+EkfMBdeSIcVMr0Qm9no
+4rz3rPXN8Zqm5xW+5TQ0sUzomMZjA3fd7O0ZV83OqbRW6qqpPggidK7wAJ+5eSpZHzzvkeS58ji4
+ntJKw8SFTbaCmekdmVTX1ukaasulRJUVE73vDn8w3OAPlnzXUla/T1F9G2G30eMGCBjD4gDPzWeV
+zW902hnFbSdZ/kvSRRUrGS3CoBLA/wCFjR+sfuHj2KraG7631LLM+31VfNufH0DhG1vYOGAul252
+eqkq6O7RRukpmxdBIWjPRkOJBPcd7n3Lh9I6vuWl5JBRdHJTyEOkhkGQT2g8wV3YYXx7lJslmwpt
+bapsNwdDWVM0j4nYkp6tu96k8R5FXbpi9w6gslPcKdpZ0gIewnJY4cwuFtN50hrO5sddbeIbtIAw
+CZ53X45AEEAnxAKsK1WyitNMae3U7KeEu3yxvLPb8gsc7l9OdMRmFKUSlJXKIBSlEpSmIhSkolIU
+xAQKJSkoJASlKhQTEApCmJSFAiFAqIFBIpKUolKUxESEpikKBAKBRSEpiAUCoUCgkBSkolKUCAUq
+JSlMQCUpRKUoEApSiSlKZICgVCgUCASlKhKBQIBSkolKUxAKUolKgkiiiiAIooogCKKKIA9DlVtt
+/uXsGzqpiDsPrJo6ceu8fkw+qsgqp9vGm9QaohtNLYaE1MELpJJj0zGYccBvxOHVveq5sGvkXI+p
+y74vRXv9Hy1+2Xa+1Lm5bFQOhHc6Q8Pk0qtrXdKm1msNG/cdUwOpnu6wxxG9jxAx5r0lsO0jctL2
+W5C9UopqypnGGb7X5Y1vA5aSObnKootkOr5bgyOS2CGmdKGmY1ERDG5+LAdk4HHHNejGaHkvb66O
+SopStI2mz+1/QOzfUerKlu7NPA6joyeYDjuFw/vED+6VqNhVu+kNolG9w3mUkb6h3kN0fNwVt7Vd
+LXOr0PbNP6VoemhhkYHjpWMwxjSBneIySSD5LWbE9F3jS0t4rb1QGKofE2OCNsrHl44lwyHEDiG8
+yFn8yeOq32yuDVJfoN/SB1b9G2dlho5MVVc3enIPFkOeX94jHgD2qhtO3P6GvVJcRTxVLqZ/SNjl
+zulw5E47Dg+S7zVGgde6hvtZdKyz/pah5cG+1QkMbyDR7/IDAVp6J2aWa36ao4b3a6WpuRbvzvka
+HEOPHdB7By4diqcmPBj1ve/0E5q636KH17rOq1nWUtRW0sFO+nYYx0WeIJzxyVaX9Gus3rZeqIn/
+AJcscwH7wIP+gL7bV9mvtlHQfkdZads7JHdMInMjy0gYzvEZ4j5r5bFdI6j0zf62S8W809HPT7u/
+00b/AHw4EDDXE8t5K8mO8Gp6/sCmlfZvNvtx9j0G+nBw6snZFjuHvn/SPVUtsmt/0ltAtEZGWRS9
+O7u3AXD5gK29t+m9QamktcFkoTUU9OHvkd0zGe8cADDnDkAfVa/YvoW8aev1ZX3yiFN+g6KH9Kx+
+SXAk+6Tjg35qcVzGB99hSbsuIrz/AP0i7h01/tlA05bT05lI7C92PsYPVX+VQO0nQ+q9QayuFfSW
+syUr3NZC72iIZa1oGcF2RnBPmsfE4rJunorJvXRrNjunbFenXObUYhdFEGMibJOY8uOSTwIzyHqr
+K/IXZ9/09H/5z/51UP5rdY/VH+Zi/nU/NdrH6o/zMX8y67U1W1k1/P8A2ZJtLWj0Jp632WxWmaOx
+NhiomudLJ0cpkAdgZJJJ6gF5QutW64XSrrJPjqJnynxcSfvV/wCmtNXay7Ka62x0v9c1TZcwiRvB
+z/cHvZ3fhAPNVjQbLdUur6ZtXbOjpzI0SP8AaIjutzxOA7PJR49TDpugvb10bHWGzuO16Gt96ojL
+7S2KN1ZG45HvAe8OzBOP/wCLndmtTaYdT08V9ooKmlnIjDpckROPI45EZ4HK9N3CihrrdPRTtBgm
+jMTm/wBkjC841Oy7VcVTKyG2iWNryGSCeIbwzwOC7IynhzK5c29BU6fR6Kr54rba6io3WshpoXSb
+oGAGtGcfJeQZ5Xz1Eksh3nyOLnHtJK9I3Sm1BX7MH0UlG76ckgFPJEZWe9xAc7ezji3J59aquxbM
+9SNvVA64W0R0bZ2GZxnjOGBwzwDsngl4znGqdML7LpoHU+ltE0zqw9HFQ0jek7SQ0Zx3k/MrzPqG
+7VF8vNVcas/pJ372M8GjqaO4DAV37XbZqO+wU1tslCZaEfpZpOmYzfd1NwXA4HPzHYuY2e7NK2K9
+OqNUUDG0kUZ3InyMeJHnhxDSeAGT44RgqMcvJT7Yq76OYoNeVNDpKSwQW+lFNJE+J0nvb5L85dz5
+8fkFo9JVfsOqLVU5wI6mMu8N4Z+WV6Jn0Tp10L2ss9G1xaQCIxwKpEbN9WNeHC14IOQfaIv5lpjy
+46T+hNMuDavX+xaGuBBw+cNgb37xGfllUDpaKCfUdtZVyxxU/TsMj5HBrQ0HJyT3BXVtTs98v9it
+dLbaIyvD+lqG9Kxu44NwBxIz8TuXYqx/Ntqv6q/zEX8ynx3M49N6bE/Ze/5S2L65tv8A5TPxX2pr
+vQVrZTb6ymq3Rt3nNgla8j0KoH82+q/qv/MRfzKy9kmma7T9HcH3WnEFRO9oDd9rvdaDxy0nrcfR
+Y5MWOZ2q2GzT1G2CmIc1lmkkaeBD5gAf8JW8vGgdPago21lEwUUkzBIyWnxuHIyCW8seGFy2tdmF
+Y64TVmnxHLBK4vNO5wa5hPMAngR6LmY9K6xjgNJHSVzIDwMYmAYfLOFsphpPHWhHLVEZpquSNkge
+YnlokYeBweYXp6wTS1Fht01Tnp5KaN8mf2i0E/NVXpHZfVvq46nUO5FTsId7O1285/cSOAHn6K4g
+A0AAYA4AKPKyTWkuwIUhRJX2oad1XWwU7Dh0rwzPZk81yC1vpGw07Ypr1NJuyCKGPG88jPPqAW0v
+WkWW+3zVba3eEYyWujxnq55XW6dtAs1C6ASiVznl5fu46gMfJcNqe0z0dwZG2pdVT1ji8sa0jjnh
+1nPH7FkrdV0zuvAsWLdTt/v6ObJSrtaLQsr4g+tq2xOPHcY3ex4nKx7xoqopKd01HOKlrBks3d12
+O7tV859bOZ+LlU8uJyJSErKoKZ1bXQUzDh0rwzOM4yea6aq0NUR1NPDBVNl6TJe4x7oYBjjzOefJ
+U6S9mUYbyLcrZxpQK3+q7FDY3U7GVZnlkBcWlmMDt5//AGFzxKae1tEZIcVxr2AoFdDp7StbeWdM
+C2npc46R4zvfujrW9n2eDoT7PcQ6UdT48AnyPBS7ldM0jxctrlK6K/KUlbejssst/Zaqt/s0pcWF
+xG9g4yPHP3r7as066wSU7XVAnbMHEHc3cYx3ntVclvRl8V8XeukaApVv9K6cm1BNMGy9BDEBmQt3
+uJ5DGR3rHvNmNHehbKKY1s/AHcZj3j1cz1I5LehfFfFXrpmmJSlWBQbOZXQh9wrmQvP6kbd7HmSF
+q9UaLqbNSuq4JhVUzfjO7uuZ346wkskt62XXiZpnm56NDYra+73WChjf0ZlJ98jO6ACc48lnau07
++T0tNG6rFQ+YOcQGbu6BjvPf6LcbKKXpb5UVBGRDCQO4uP4ArH2kTOrtXilj4mNjIWjvPH/cjk+e
+ivhleN8jXbfQG6Jf+Tf0tLXNjb0HT9H0WeGMgZz18Fxq7/V9nuVlsIM99mqKdzmwiDdLQRjOOZ4A
+Bc7prS9ff3OdThsVM04dNJyz2DtKJrrbZOfD+NY4nT0aAlKVZj9mLDEQy6kzAdcPD7VwN8tVVZrg
++jrWgSN4gjiHDqI7lU3NejLN42XCt2ujXraaZsz79d46GOURbzXOMhbvboA7PQLVEqw9jVJv3C4V
+ZHCONsQP7xz/ALU7rjLYvGxrLlmH6OX1hp78nK2GlNUKh8kfSHDN3dGSB1nsK58rrNok0lx1pUxQ
+NdI5hbBG1oySQBwHmStzatmFTNTtkuda2mcRnomN3yPE5A+1SrUynTLrxqy5anDPSZXBSlWHftmd
+XR0r6i2VQrNwbxiLN1xHdxOT3cFX0cUkszIYmOdK9wa1oGSSepXNqvRz5sGTC+NrQiUlWTbtl8rq
+Vk11uLKV5GTG1m9u9xcSBlYOqdnNTabdJXUVWKyGIb0jdzdc1vaOJzhL5Zb1s0rwc6nm56OBKBWb
+abbVXe4RUdDGZJ5DwHUB1knqCsaHZMPZx7Rdg2oI5Mhy0HzOT8k6uZ9meHxcudbxrZxOjdNyanuU
+tLHOKdscRkMhZvdYGMZHb8l8tVafNivgtjKgVUpa0lwZu4LuQxk93qrX2a6WqtOVF19t3XOe5jIp
+G8nNAJyPUeir6uhm1NtNqIaacwvfUuayYDO4Ixwd6NULJun30jpyeIseCNz+Ono+mr9AnTdm9ulu
+TZiXtjbGId3JPfnsBXDLutpdvuVoFFS3G+T3IS70gY8EBmOAPM9pX3oNmlTW6chuUVbmaaHpWUwh
+4kke6N7e6+HFVN6ndMyzeM7yuMMa0u1v/sr5RWnb9k7pIMVt2ZHU4yY4o94M8SSM+i4XVdgqNN3Z
+1FVObJ7ofHI3gHtPX3ciPJOck09JmOXxM2GedzpGmUXc6Q2d119pW1lTMKKkfxYXM3nvHaBw4d6y
+79syqqNkUtrq21sLpGxvG5hzMnGeBOQM8UfJO9bKXhZ3HyKeiu1F2Ot9FDS1HTzOuAqXzSFgYItz
+AAyTnJ7vVccqmlS2jHLivDXC1pnoVKSiSlK4j6cBQKhSkpiAUpRKUoEAlKUSlKCSFKUSlJTEAlKU
+SlKBAKUolKUxAKUlEpSgkCUolAoEAr5TSMijfJI4NYwFznHkAOZX0JXLbS6/6O0Pd5gcOdCYW+Lz
+u/ermeTSJbGOudM/XVH/ABoxa003K4NZeqHJ/alDftXmO0UEt0ulLQ0+BNUStiaXcgScZPcuq1Rs
+2vWnra+vmfTVFNHjpDA4ksBOMkEDh4Ltfi45enXZnyZ6NimjnibJDIySNwy1zDkEdxTFed9kmp6i
+0aip6CSVzrfWvEToyeDXng1w7DnAPd4BehZHtjY573BrWjJJOAB2rmy4nirQ09mBeL3bbO2M3Osh
+phJkM6R2N7HPHqFhUGqrHcKuOlornTTVEmQyNruJwM/cqD17f5dV6pe+nDnwNd0FLGOsZ4HHaTx9
+B1LA0bUmg1fapXe7uVTGu7gXYPyJXSvEXDbfZPI9NXK4UtspXVNfOyCBpAL3nABPJab8ttN/XFJ/
+GtftSstz1BY4KG0sY49OJJN94bwAOB6n5Kl9SaNu2naJlVc2Qsie8Rt3ZA4k4J5eRWeHDFrt9g2X
+sda6c+uKT+JL+WunPrik/iXnax2qqvdyioaBgfUSZLQ44HAEnJ8l1kWy7URkYJIqdrMjJ6YcAta8
+fFPToWy+oZWTwxyxODo5GhzXDkQeIK0dTq2w09RJDNdaVksbi17S/iCOYWFr6/M0xplxpyG1Mjeg
+pm9hxz8hx9F54McskUlQWucxrw17z+07JGfHB9Fnh8dZFt+hHqO2XOiutO6e3VMdRC124XMOQDgH
+HzCyiVVuwqqzR3WlJ+CRkoHiCD/pCtAlY5Y4U5EAqAkEEEg9oQKy7RT+1XSkgxkPlaD4Z4/JR6BL
+b0iw7o423RjmkkSNgbHnPHedgH7StDs6phPW1NXLl7oWhjN7jguzk/L5rYbR6jo7XTwA8ZZM+QH/
+ALC0+z25RUtbPSzuDBUAbhJ4bwzw88/JYpPg2ejdSvJmX6R8Nd3Sapu0lI17hTwYbug8C7HEn7Fv
+9nE80tsqGSuc6OOQBmTnHDiP/u1fDUOj56+6SVVHPE1kpy9smRg9eMDitm+Sj0jYej3w+XiWg85X
+nrx2fchtOVKDHFxmrLk6SOa09Rsdr6pbGB0dPJK8AchxIHzK2W0C+z0ToqGikMb3t35HtOCB1AHq
+618tmsTpprjXS8XvIbvdpOSfuXMaxqfatR1rwchj+jH90Y+0FUlu+/oyq3j8fc9cmaionlnfvTSP
+kdjGXuJKa30/tlwpqYHHSyNZnsycL4ErItdUKK5UtSRkRSteR2gFav10ecmuS5Fma3rjZdPRwUP6
+F0hELN3huNA44+zzVd2O+Vdmqnz0xa8vbuubJktPecHmrJ1TaBqa10z6Cojy077HOJ3XAjuWBR6a
+tVjs0st8EM7vic8jl2Nb1/isYqVOmep5GLLeXlL0kumcU6+T1upKO41QjbIyRmejGBgH8F2G1Ond
+LQW+RjS5wmMYA5kuH/5Vb1UjJKmR8MYijc4lrASd0dQ4q7KWOK7Wy11M3vboZUAf2t38T8lV/haZ
+j4qeacmNvt6NSzotHaPy7dNTjOP25XfcPsC0uy6kFTU190qP0k+9uNceeTxcfHl81pdod6+kruae
+F2aalywY5Od1n7vLvW42U3KFgqrfK8Nle4Sxg/rcMEfIJOWob+2XOWK8mYX5Z6X7nP69u81wv1RD
+0jvZqZ5jYzPDI4E+OcpRrK5Nsv0a5sEkPRmIve0l5aeHPPYumrNn8tVf5qh1VGKGWUyEDO/xOSOz
+zytdtHislCyOkt9LA2uJy90eR0bewgcMlVLl6lGOTHnjnlp6/wDpudktL0dnq6kjBml3R3ho/Elc
+rZ/652itl+JhqnTA/wBluSPsC7my/wBTbPGS/C9tK6YfvOyR9oXKbJKXpbxV1RGRDDujuLj+AKlP
+81GtR/4cP8/5/wCzO2u1Be+20TDxJdIR6Afet/f5hpXRRZRYZJGxsMbgP1jzd48yuC2kVxk1g8tO
+fZWsY3xHvfaV396pItZaVj9hnY0vLZWE8g4c2ux4kJNaU79FxbvJmcfm9IqKz3ustV0FfA/fn473
+SEkPz+1x4p9SagqtQVEU1ayBj42lreiaRw59ZKsSwaKt9loKmo1C6mqCRxLvgjaOwnjkqr71NSz3
+Spkt8IgpC/8ARsyThvbx7ea2mpqto87Njy4caVv39GCVcmyimFLpWSpfw6eVz94/st4faCqaV2z/
+ANSbMiPhe2iDfB7xj7XKc3pL9TT/AE1ausj/AKUcxsxgZddVXO6zN3nRkvbnqc9x4+gPqsHavfKi
+ovj7ZHK5tLTABzGnAe8jOT24yB6pdlF5gt15npqp7Y46toa17jgb4JwD45PyXQa00BU3i9Pr7dUw
+ME2OkZKSMEDGRgHPJJ6nJujSZvL4esXb33/n/BNjNVUzW+4QTPc+CF7OiDjndJByB6BchW26vm2h
+V0Wn2f8AEx1DpGuGMR8eJOeAAJVjwC3bP9LlssoklOXdjppCOQHZy8Aub2QXBlTdr06pc322pLZs
+9bhl29jzISVfmtejS8aaxeNb/F7/AGPrc9Hagu8ER1DfqcRxZLQGZDc9vBuSukrIGWDZ3Uwe0GpZ
+DSPY2U/r7wOO3hxC5vUeiLjc9RVFdcrnC21b+/vPecxs/ZAPAY7c963G1eT2XRMkMTcRvkjiwOQA
+Of8AaFO+TS2azPxTkycWml7b22arYrbY2W2tuTmgzSSdC09jQAT6k/JV3rC+1N41DU1TpXiNkhbA
+0O+BoPDHYevxVkbF7jDLZam3l4FRFKZA3PEscBx9QfktNVbLagXeWR9dTxWkPLy8kh7Wc8YxjPfn
+HX3LRUptujkyYsmXxcc4Vtff7ne2G6TfkLT3KtJdKykMr3O5u3QeJ8cZVb7GKU1Wp6utk97oYTx/
+tOP4By7raPNHadA1MFOAxhYymjaOoZAx/CCtPsRo+isVdWEYM8+4O8NH4uKzXUU/1OrInXlYsb74
+rZye1md1x1wKSL3jCyOBo7z73+5WRri5u0xoz/g3bkwaymgd+ycYz5AFVjZP6+2qMl+Jjqx84/dY
+S4fJoC6PbnWe7a6Jp63zOHoB/uVuduYObHlc48/kL7el/n8mn2OtnqtYTVD5JHFkD3yOc4neJIHH
+t558lm7SY23faPa7bn3N2KJ+OrecSfkQtjsMo92judaR8b2wtP7oyf8AUFx91vTY9pkt0kJdFDWj
+JHHLGEN4eQVe8j19Iz6jw4Vf1Vv+Cwdrl2ks+nKahoT0JqndHlnDEbQMgdnMDwyuT2K1VS3UdRTM
+e400kDnvZnhkEYd48cea73XOm2axtNJJQ1UTZIz0kMh4se1wGRkeA49yXZ7pODTUdSXVMdTcH4bK
+5nKMcw0dffx7lkqlY2vs7bwZb8yci/Kji9uFZ0l5oKMHIhhMh8XHH2NCrRdNtIrfbtZ3J4OWxvEI
+7t0Bp+YK5ldONalI8TzL+TPdf3PQZKUolKVyH0IClKJKUpiAUpKJSlAgFKUSgUxAKQlMSkKCSFKS
+iUhKBEKUolKUxAJSqFAoEAoFQpSUyQFVbt+r+h03Q0TTh1TUbxHa1g4/NzVaJVB7fK/p9T0dG05b
+TU+SOxziSfkGro8aeWREW+jVbGKH2zXVNIRltLG+Y+m6Pm4K4tqVXHSaFurpCAZIxE0HrLiB/wC/
+JUxsy1XQ6Tqq6oraaeeSZjY2dFj3Rkk5yfD0TbRNeTas6GnhgNNQQu3wwuy57uWT4DOB3ldWTFV5
+k/pEJ6RzmlonzaltUced91VEB/EFcu2nU30bZ22ilfiqrW/pMHi2Lr/i5eGVx+yaytpn1GqbqDFb
+qBjnRucPjfjBI7ccR4kdi4vUd2qNQ32pr5wTJO/3GDjut5NaPLCupWTL/ZC9I6/YvYPpLUDrjO3N
+PQjebnkZD8PpxPouMvTTSahrmM910NU8DuIcVu4tE6tibiK21bGnjhsgH3rnLjSVNDXTU1dG6Opj
+diRrjkg8+K0nTtvexHq2hqG1VDT1DPhljbIPAjKqPb1XZntVA0/C18zh4kBv2OXf7PKv2zRNolzn
+dgEX8BLfuVL7Wq723W9aAcspw2FvkMn5kri8eP8Ad/YbN1sMoemv9bWEZbTwbg7nOP4NKux7g1pJ
+IAHEkqu9iFF0GmKircMOqZzg9rWgAfPeX02v6k+irL9HUz8VdaC04PFkfWfPl69iMqeTNxQisdou
+ojqLUMkkTiaODMUA6iOt3mflhdJetPC0bJojK3FVLUR1MueYyCAPIEeeVwVns1wvM0kdspX1D427
+zg3HAea2dy01qSkopZ6+kqW00Y3nue8EAeq63KWpT1oDf7FKrotTVEBPuzUxwO8EH7Mq7SvO2zeq
+9k1rbHk4D3mI9+80t+0heiCuXylq9iZEYpZIJGyQvdHI3k5pwR5pSlJXKTs+tXWVNWW+1VE0278P
+SPLseGVjqIFAm2/ZsIr5c4YwyOuqAwcAN8nCwKmomqZTJUSvlkPNz3ElISlKaSB3T6bMimuFZSsL
+KWrqIWE5LY5C0E9vBY0j3Pe5z3FznHJJOSSgUpQS230ApUSgUyTMorrXUDS2jq5oWnm1rjj0Xxr7
+hV1zg6sqZZiOW+4nHgsclIUaQO61rfR0emtKVN9pzURzxRQtk6N28CTyB4DzXb6quUOmtOx0dG7E
+7mdFCM8QMcXf/dZVY0N2r7ewso6uaFhOS1ruGe3Cxayqnq5jLVTSTSnm57iSocOn36OmPJjFjahf
+if2fEnJQa9zHhzHFrgcgg4IQKBWhxG1dqO8GLozcqrdxj/mHPrzWoe4ucXOJJPEk9aBKBQkl6HV1
+Xt7MyW63CWmNPLXVT4MBvRumcW4HIYzhfKjuFZQh4oquopw/4uikLM+OFjFKSjSJd1vexqiaSeV8
+s8j5JHHLnvOST3lfeguddbnE0NXNBvcxG8gHxHWsQpVWieTT2n2Z1xu9wuIArqyedo4hr3kgeXJa
+4okpSjWhVTp7ZCsuqu9yqoDBU3CrmhOMxyTOc045cCVhlISjQlTXSYFtaXUl5pYRFT3OqZGBgN6Q
+kDw7FqSgU2k/Ypup7l6PtWVlTWzGasnlnlP60ji4/NfKCeWmmZNTyvilYctex2CD3EJCUpQS297N
+jcb7dLjEIq6vqZ4x+o95I9F8qy8XKsg6CruFZPDwO5LM5zeHcSsEpSUJIbyU/bPpTVU9JO2almkh
+mbxa+NxaR5hZ1w1Fd7hEIqy41UsYOdwyHGfBaspSnpEq6S0n0Ztdd7lXxCKuuFXUxA7wZNM54B7c
+E8+JTUl5ulHAIKS41kEIyRHFO5rRnnwBWvURpC51ve+z70dZU0U/TUdRNTzAY34nlrseITV1dV18
+rZK6qnqZGjdDppC8gdmSsZRGhcnrW+jPorxcqGExUVwrKeIne3IpnMGe3AK2eh6W3XLUsNNeyTBU
+BzQ4vLffPLj3nh5rnVEmtouMjmk67S+i5L3oO6UTY2aSudVBTOz0sMlU5oz2jAW7s1NHoTR08lyq
+GSz7zppHA/8AMkI4NBPE8gPmqZpdUXyljEcF1rGsAwGmUkAd2VhXG511yeHXCrnqXN5dLIXY8M8l
+j8VPqn0eivOw427xQ1X79Ix6iV888k0hy+Rxe49pJyvmootzyvZ6BKUolISuI+qIUpRKUlBICUpU
+KBQIBQKhSlMQCgVCgUCASkKJSlMkhSEpikKBAKBRKUoEApSiSlKYgFcLqTZpaL/eai5VtXcGzzYy
+2ORgaMAAYBaeoLuSlJVTdQ9yyX2Vp+ZzT/8A1l0/7kf8izrZss01RSiSSGoqyOQqJMj0aBnzXdlK
+Vp82R/ZOkaLUmm6O+2dlrllnpaNpB3KUtYCBybxB4DnjuC520bLrFa7nTV0c1dNJA8SNZM9haSOW
+QGjkePNd6UpSWSpWkxMhXDag2bWe93eouNVUVzJpyC5sT2BowAOGWk9Xau4KUlTN1D3LEzU6bslP
+p61Mt9HJNJAxznNMxBcMnJHABcrcdl1mr6+pq56u5dNPI6V+JGYyTk49xd8lKqclJ7T9iNdYrVT2
+S009uoy8wQghpeQXHJJJOAOsrm9Q7PrbfrpLX11ZcOlfgbrHsDWgcgAW8l2RKBQrpPafYjQ6U0vQ
+aYp54reZnmZwc98xBccDgOAHDn6lZ94oIrrbKmhqS8QzsLHFhAIHdlZpSlJ029v2I4Oh2Y2eirae
+qhqrh0sEjZGZkZjIOR+r3LuUSgVVXVfmYgFIUSUqkkhSlEpCUCAUFCgUxAJSlQoFBIECoUpKBAKU
+olBMQCkKJKUoERKSiUhTJAUCoUECAUpKJKUpiAUColJQIBSlEpSgkBKUolKUxAKCJSkoEAlKVCgU
+yQFKUSUpQIBQUKCBEUUUQBFFFEARRRRAEUUUQBFFFEAX+UpUUXEfUipSoogQqUqKJiAUhUUQIBSl
+RRBIhQUUTEKUqiiBClAqKJokQpSoogTAUhUUQIBSFRRMQqBUUQSKUpUUQIUpSoomIUpSoogQpSqK
+JkgSlRRMQhQKiiBMUpCoogTAlKiiZIqVRRAgFIVFExClAqKIJEKBUUQIUpVFExClKVFECFKUqKJk
+gKQqKIExSgVFECEQUUTEKlKiiCRSlKiiaEKUpUUQICCiiBEUUUQBFFFEARRRRAEUUUQBFFFEAf/Z
+
+------MultipartBoundary--YCMxAhAYLKBsZ9Avr2a5EULikyW5kM3YMdVSSTbjkL----
+Content-Type: image/jpeg
+Content-Transfer-Encoding: base64
+Content-Location: http://www.wm.tu-darmstadt.de/mat-db/print.jpg
+
+/9j/4AAQSkZJRgABAQEAYABgAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEP
+ERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/wAALCAAPAA8BAREA/8QAFgABAQEAAAAA
+AAAAAAAAAAAABAMG/8QAIxAAAQQCAgICAwAAAAAAAAAAAQIDBAUGERITByEiMhUxQv/aAAgBAQAA
+PwDW5Zf4v5AySTdS49LSOP1FW5XnKJVewt2OVzVLU0XWZadHm1tPFKvQ2QAAquJZ3ifi6Zd2bVfF
+toCaiv8AyMnGHYL7LTxlTUp7C2mMlSylbQ+LQIAHL9BShS76V41kV+E5tlWM40qDSwzFcRWzLQTB
+txpSto6uvXUk8SFfb7H2AeS3deaqHJcRwzIcYvITceE47ZLiSq3pcU8tRb6lh0uemE/LaQOf9e9f
+/9k=
+
+------MultipartBoundary--YCMxAhAYLKBsZ9Avr2a5EULikyW5kM3YMdVSSTbjkL------

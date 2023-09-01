@@ -1,0 +1,10 @@
+We need the data from this database: 
+http://www.wm.tu-darmstadt.de/mat-db/view.php?id=289
+MATERIALS DATABASE FOR CYCLIC LOADING
+    Login:          Guest
+    Password: FG_WM
+
+It is a Database of Cyclic Material Properties consisting of 320 records, which shall be extracted and processed. 
+
+- Each html record has several scalar attributes that shall be consolidated in one excel sheet
+- each record also includes one data table, which shall be in a extra excel tab.
